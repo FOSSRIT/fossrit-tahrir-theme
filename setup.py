@@ -14,7 +14,7 @@ f.close()
 
 requires = []
 
-version = '0.1.4'
+version = '0.1.5'
 
 setup(
     name='fossrit_tahrir_theme',

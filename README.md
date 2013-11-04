@@ -1,4 +1,4 @@
-# fossrit-tahrir-theme
+# fossrit_tahrir_theme
 
 Custom FOSSRIT theme for Tahrir. To be used for the FOSSBox's Open Badges frontend.
 
@@ -6,12 +6,12 @@ Custom FOSSRIT theme for Tahrir. To be used for the FOSSBox's Open Badges fronte
 
 In your Tahrir virtualenv, install this theme from PyPI:
 
-    pip install fossrit-tahrir-theme
+    pip install fossrit_tahrir_theme
 
 In the config file you use to start your server, make sure the following
 option is set:
 
-    tahrir.theme_name = fossrit-tahrir-theme
+    tahrir.theme_name = fossrit_tahrir_theme
 
 So if you start your server with `pserve myconfig.ini --reload` or something
 of that nature, you want to make the change in `myconfig.ini`. Tahrir by
